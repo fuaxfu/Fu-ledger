@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BirrLedger</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_ledger">Ledger</string>
+    <string name="privacy_vault_title">Privacy Vault</string>
+    <string name="on_device_badge">On-Device Only</string>
+    <string name="grant_sms_cta">Enable Auto SMS Sync</string>
+    <string name="sync_inbox_now">Sync Inbox</string>
+    <string name="paste_sms_action">Parse Bank SMS</string>
+    <string name="add_manual_action">Add Entry</string>
+    <string name="retention_policy_summary">365-day local retention active</string>
+    <string name="notification_channel_name">Transaction Alerts</string>
+    <string name="notification_channel_desc">Local alerts when CBE or M-Pesa SMS transactions are auto-logged</string>
+    <string name="settings_title">Settings &amp; Vault</string>
+    <string name="biometric_prompt_title">Unlock BirrLedger</string>
+    <string name="biometric_prompt_subtitle">Verify your identity to access your local financial ledger</string>
+</resources>

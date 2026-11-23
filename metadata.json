@@ -1,0 +1,6 @@
+{
+  "name": "BirrLedger",
+  "description": "On-device personal expense tracker with interactive charts and real-time CBE and M-Pesa SMS transaction parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
